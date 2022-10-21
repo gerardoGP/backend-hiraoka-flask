@@ -1,0 +1,1199 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:35:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:36:24] "[33mGET /matricula/1 HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:36:59] "[35m[1mGET /matricula/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\matricula_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:38:15] "[35m[1mGET /matricula HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:39:58] "[35m[1mGET /matricula HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:40:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [12/Oct/2022 23:40:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:26:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:33:01] "[33mGET /usuarios/postulantes/ HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:33:23] "[33mGET /usuarios/postulantes/ HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\productos_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:35:39] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:37:13] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:37:23] "GET /productos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:44:36] "[33mGET /productos HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:44:45] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\productos_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:44:51] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:44:54] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\productos_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:45:13] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\producto_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\producto_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\producto_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:48:53] "[33mGET /productos HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\__init__.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:49:49] "GET /productos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:56:15] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:57:43] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:58:39] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 16:59:02] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:00:23] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:01:17] "GET /productos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\producto_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:01:52] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:02:01] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:22:19] "GET /usuxd HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:22:51] "GET /usuxd HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:22:57] "[31m[1mPOST /usuxd HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:22:59] "GET /usuxd HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:24:17] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:25:47] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:26:08] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:28:48] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:29:54] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:32:18] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:33:00] "[35m[1mGET /usuarios/postulantes/ HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:34:05] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:34:31] "GET /productos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\producto_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\producto_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\producto_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:35:20] "[35m[1mGET /productos HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\producto_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:35:33] "GET /productos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:35:59] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 17:36:24] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:03:19] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:03:43] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:07:53] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:08:24] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:08:34] "[35m[1mGET /usuxd HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:09:20] "GET /usuxd HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:09:41] "GET /usuarios/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:11:17] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:11:23] "GET /usuarios/postulantes HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:27:25] "GET /usuarios/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:28:25] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:28:31] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:37:16] "[35m[1mGET /usuarios/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 18:37:44] "GET /usuarios/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:00:45] "[31m[1mGET /usuarios/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:21:33] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:21:55] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:22:26] "[31m[1mPOST /login HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:24:55] "[31m[1mGET /buscar/ggaribay@undc.edu.pe HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:26:40] "[31m[1mGET /buscar/1 HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:26:56] "[35m[1mGET /usuario/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:27:11] "[35m[1mGET /usuario/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:27:58] "[35m[1mGET /usuario/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:29:21] "[35m[1mGET /usuario/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:29:31] "[35m[1mGET /usuario/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:29:38] "[33mGET /usuarios/postulantes HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:29:52] "[33mGET /usuarios/postulantes HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:30:27] "[31m[1mGET /usuario/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:30:41] "[35m[1mGET /usuario/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:30:53] "GET /usuario/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:31:48] "[35m[1mGET /usuario/id/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:32:12] "GET /usuario/id/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:32:20] "[35m[1mGET /usuario/id/12 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:32:40] "GET /usuario/id/12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:32:52] "[35m[1mGET /usuario/id/12 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:33:07] "[35m[1mGET /usuario/id/12 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:33:25] "[35m[1mGET /usuario/id/12 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:33:37] "GET /usuario/id/12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:34:35] "[31m[1mGET /usuario/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:34:54] "[33mGET /buscar/email/ggaribay@undc.edu.pe HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:35:12] "[31m[1mGET /usuario/email/ggaribay@undc.edu.pe HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:36:42] "[31m[1mGET /usuario/email/ggaribay@undc.edu.pe HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:38:04] "[31m[1mGET /usuario/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:38:11] "[35m[1mGET /usuario/id/12 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:39:09] "[31m[1mGET /usuario/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:39:19] "[35m[1mGET /usuario/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:41:28] "[35m[1mGET /usuario/id/12 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:41:31] "[35m[1mGET /usuario/id/13 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:41:32] "[35m[1mGET /usuario/id/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:42:40] "[35m[1mGET /usuario/id/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:42:55] "[35m[1mGET /usuario/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:43:11] "[35m[1mGET /usuario/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:43:19] "[35m[1mGET /usuario/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:43:40] "GET /usuario/postulantes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:43:43] "GET /usuario/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:43:55] "[35m[1mGET /usuario/postulantes HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:43:59] "GET /usuario/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:44:11] "[35m[1mGET /usuario/id/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:44:44] "[35m[1mGET /usuario/id/1 HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:45:22] "GET /usuario/id/1 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:45:38] "GET /usuario/id/2 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:45:39] "GET /usuario/id/3 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:46:53] "GET /usuario/email/ggaribay@undc.edu.pe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:51:50] "GET /usuario/email/ggaribay@undc.edu.pe HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:52:17] "[33mPOST /login HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:53:32] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:53:45] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:54:56] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 19:55:33] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:01:11] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:01:28] "[31m[1mPOST /usuario/login HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:02:01] "[31m[1mPOST /usuario/login HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:02:06] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:07:34] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:08:19] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:08:30] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:08:52] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:09:07] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:10:28] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:12:15] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:13:36] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:14:33] "GET /usuario/postulantes HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:14:37] "[31m[1mGET /usuario/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:14:40] "GET /usuario/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:22:26] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:23:48] "[31m[1mPOST /usuario/login HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:24:01] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:24:16] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:24:23] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:24:36] "[31m[1mGET /usuario/postulantes HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 20:24:43] "GET /usuario/postulantes HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:09:33] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:10:02] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:10:23] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:10:44] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:12:06] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:13:22] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:15:02] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:15:16] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:15:48] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:16:47] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:18:07] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:20:49] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:21:39] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:21:56] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:21:58] "[31m[1mPOST /usuario/login HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:22:09] "[35m[1mGET /usuario/lista HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:23:31] "GET /usuario/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:25:40] "GET /usuario/id/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:26:57] "[35m[1mGET /usuario/email/gerardo210299@gmail.com HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:27:20] "[35m[1mGET /usuario/email/gerardo210299@gmail.com HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:27:44] "[35m[1mGET /usuario/email/gerardo210299@gmail.com HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:28:02] "GET /usuario/email/gerardo210299@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:28:08] "GET /usuario/email/gerardo210299@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:28:28] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:29:25] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:29:38] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:29:51] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:30:04] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:31:01] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:33:26] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:33:49] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:33:57] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:37:08] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:39:43] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [13/Oct/2022 22:40:08] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:20:52] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:21:05] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:22:39] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:23:43] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:24:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:24:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:25:20] "GET /usuario/id/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:25:38] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:25:57] "[31m[1mPOST / HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:26:14] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:26:20] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:26:48] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:26:53] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:27:12] "GET /usuario/email/gerardo210299@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\usuario_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:30:27] "GET /usuario/email/gerardo210299@gmail.com HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:30:33] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:31:47] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:31:51] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:32:23] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:32:36] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 09:32:41] "GET /usuario/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\celular_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 11:38:30] "GET /celular/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\celular_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\celular_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 11:47:47] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\celular_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 11:49:27] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 11:49:53] "[35m[1mGET /celular/lista HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 11:51:25] "[35m[1mGET /celular/lista HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\celular_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 11:51:54] "GET /celular/lista HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 12:19:51] "[31m[1mGET /celular/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\marca_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\marca_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\marca_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\marca_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\celular_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\marca_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\marca_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\marca_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 12:37:29] "[31m[1mGET /marca/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 12:37:36] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 12:37:51] "GET /marca/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\celular_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\celular_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 19:33:02] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 19:33:13] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 19:34:33] "GET /marca/lista HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 19:50:05] "[31m[1mGET /marca/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\schemas\\celular_schema.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 20:27:35] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 20:27:57] "[31m[1mPOST /celular/registrar HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [14/Oct/2022 20:28:25] "[35m[1mPOST /celular/registrar HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 09:50:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 09:50:18] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 09:50:32] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 09:50:36] "GET /usuario/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 10:17:54] "[31m[1mPOST /usuario/registro HTTP/1.1[0m" 422 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 10:26:19] "[31m[1mPOST /usuario/registro HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\models\\usuario_model.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 10:26:34] "[31m[1mPOST /usuario/registro HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 10:32:44] "[35m[1mPOST /usuario/registro HTTP/1.1[0m" 201 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:03:18] "[31m[1mPOST /usuario/registro HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:17:24] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:24:07] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:24:24] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:24:50] "[35m[1mPOST /usuario/login HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:24:59] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:26:25] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:26:54] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 422 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:27:19] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:27:36] "GET /usuario/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:27:47] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:28:02] "GET /usuario/lista HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
