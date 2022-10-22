@@ -48,6 +48,31 @@ class UsuarioController:
             return result,201
         
         return {"message":"Error, el usuario ya existe, no puede haber duplicado"},400
+    
+    @jwt_required()
+    def actualizar_usuario(self, json_input):
+        id = json_input.get("id")
+        usuario = UsuarioModel().query.get(id)
+        usuario.nombres = json_input.get("nombres")
+        usuario.apellidos = json_input.get("apellidos")
+        usuario.direccion = json_input.get("direccion")
+        db.session.commit()
+        result = user_schema.dump(usuario)
+        return {"message":"Actualizado correctamente","content":result}, 200
+    
+
+    def eliminar_usuario(self, json_input):
+        id = json_input.get("id")
+        usuario = UsuarioModel().query.get(id)
+        if not usuario:
+            return{
+                "message":"No se puede eliminar, el usuario no existe",
+                "id":id
+                },400
+        db.session.delete(usuario)
+        db.session.commit()
+        return {"message":"Eliminado Correctamente"}
+    
     @jwt_required()
     def listar_usuarios():
         usuarios = UsuarioModel().query.all()

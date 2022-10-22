@@ -29,3 +29,13 @@ def postulantesAll():
 def registrar_usuario():
     json_input = request.get_json()
     return UsuarioController().registro(json_input)
+
+@app.route("/usuario/actualizar", methods=["PUT"])
+def actualizar_usuario():
+    json_input = request.args
+    return UsuarioController().actualizar_usuario(json_input)
+
+@app.route("/usuario/eliminar", methods=["DELETE"])
+def eliminar_usuario():
+    json_input = request.args
+    return UsuarioController().eliminar_usuario(json_input)

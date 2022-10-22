@@ -1197,3 +1197,142 @@ INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:27:47] "POST /usuario/login HTTP/1.1
 INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:28:02] "GET /usuario/lista HTTP/1.1" 200 -
 INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
 INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:31:13] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:57:48] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:58:01] "[31m[1mGET /usuario/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 11:59:49] "GET /usuario/lista HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 17:34:44] "PUT /usuario/actualizar HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 17:37:26] "PUT /usuario/actualizar?id=12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [21/Oct/2022 17:38:15] "PUT /usuario/actualizar?id=12 HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 06:01:16] "PUT /usuario/actualizar?id=12 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 06:44:51] "PUT /usuario/actualizar?id=1&nombres=ENRIQUE&apellidos=PALOMINO&direccion=calle%20real%20madrid HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 06:46:05] "PUT /usuario/actualizar?id=1&nombres=ENRIQUE&apellidos=PALOMINO&direccion=calle%20real%20madrid HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 06:46:34] "PUT /usuario/actualizar?id=1&nombres=ENRIQUE&apellidos=PALOMINO&direccion=calle%20real%20madrid HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 06:48:21] "[35m[1mPUT /usuario/actualizar?id=1&nombres=ENRIQUE&apellidos=PALOMINO&direccion=calle%20real%20madrid HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:06:42] "PUT /usuario/actualizar?id=1&nombres=ENRIQUE&apellidos=PALOMINO&direccion=calle%20real%20madrid HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:07:47] "PUT /usuario/actualizar?id=1&nombres=ENRIQUE2&apellidos=PALOMINO2&direccion=calle%20real%20madrid HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 111-202-420
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:25:16] "[31m[1mPUT /usuario/actualizar?id=1&nombres=ENRIQUE2&apellidos=PALOMINO2&direccion=calle%20real%20madrid HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:26:15] "[31m[1mGET /usuario/eliminar?id=3 HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\routers\\usuario_router.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:26:26] "[31m[1mGET /usuario/eliminar?id=3 HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:26:48] "[31m[1mGET /usuario/eliminar?id=3 HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 514-155-904
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:28:06] "[31m[1mDELETE /usuario/eliminar?id=3 HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:28:23] "[31m[1mGET /celular/lista HTTP/1.1[0m" 401 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:28:29] "POST /usuario/login HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:28:49] "GET /celular/lista HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Oct/2022 07:29:08] "DELETE /usuario/eliminar?id=2 HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'D:\\cursos\\backend\\tesis-back\\app\\controllers\\usuario_controller.py', reloading
+INFO:werkzeug: * Restarting with stat
